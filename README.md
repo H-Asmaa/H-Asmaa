@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma,git,bash,c,laravel,latex,linux,mysql,ps,php,python)](https://skillicons.dev)
 
 <h3 align="left">Profil stats:</h3>
-
+<hr>
 [![GitHub Streak](https://streak-stats.demolab.com?user=h-asmaa&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-asmaa&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="h-asmaa" /></p>
