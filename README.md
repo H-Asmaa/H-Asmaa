@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,git,bash,c,laravel,latex,linux,mysql,ps,php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,git,bash,c,laravel,latex,linux,mysql,ps,php,python,docker)](https://skillicons.dev)
 
 <h3 align="left">Profil stats:</h3>
 <hr>
