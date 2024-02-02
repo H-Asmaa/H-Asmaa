@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 [![committers.top badge](https://user-badge.committers.top/morocco/H-Asmaa.svg)](https://user-badge.committers.top/morocco/H-Asmaa)
 
-[![wakatime](https://wakatime.com/badge/user/65bb6755-c338-4f85-969e-a00ac82349b9.svg)](https://wakatime.com/@65bb6755-c338-4f85-969e-a00ac82349b9)
-
+<a href="https://wakatime.com/@65bb6755-c338-4f85-969e-a00ac82349b9"><img src="https://wakatime.com/badge/user/65bb6755-c338-4f85-969e-a00ac82349b9.svg" alt="Total time coded since Sep 18 2023" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-asmaa&label=Profile%20views&color=0e75b6&style=flat" alt="h-asmaa" /> </p>
 
