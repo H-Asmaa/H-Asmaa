@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 [![committers.top badge](https://user-badge.committers.top/morocco/H-Asmaa.svg)](https://user-badge.committers.top/morocco/H-Asmaa)
 
-<img src="https://wakatime.com/badge/user/65bb6755-c338-4f85-969e-a00ac82349b9.svg"></img>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-asmaa&label=Profile%20views&color=0e75b6&style=flat" alt="h-asmaa" /> </p>
 
