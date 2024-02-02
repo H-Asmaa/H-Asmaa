@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=h-asmaa&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![wakatime](https://wakatime.com/badge/user/65bb6755-c338-4f85-969e-a00ac82349b9.svg)](https://wakatime.com/@65bb6755-c338-4f85-969e-a00ac82349b9)
+
 <h3 align="left">Brief:</h3>
 <ul>
   <li>🔭 I’m currently working on  <strong>Python ALX projects</strong></li>
