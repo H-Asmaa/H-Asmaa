@@ -18,14 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-asmaa&label=Profile%20views&color=0e75b6&style=flat" alt="h-asmaa" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=h-asmaa&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://linktr.ee/H_Asmaa?utm_source=linktree_profile_share&ltsid=acd776ee-b66f-4dd1-96bf-5e59aa1aafa5">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge">
 </a>
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=h-asmaa&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Brief:</h3>
 <ul>
