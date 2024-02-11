@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 [![committers.top badge](https://user-badge.committers.top/morocco/H-Asmaa.svg)](https://user-badge.committers.top/morocco/H-Asmaa)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-asmaa&label=Profile%20views&color=0e75b6&style=flat" alt="h-asmaa" /> </p>
+
 
 <a href="https://linktr.ee/H_Asmaa?utm_source=linktree_profile_share&ltsid=acd776ee-b66f-4dd1-96bf-5e59aa1aafa5">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge">
 </a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-asmaa&label=Profile%20views&color=0e75b6&style=flat" alt="h-asmaa" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=h-asmaa&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
